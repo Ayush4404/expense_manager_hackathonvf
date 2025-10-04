@@ -2,6 +2,8 @@
 
 A modern, responsive expense management application built with React and Tailwind CSS that helps organizations streamline their expense reimbursement process.
 
+Live Demo https://expense-manager-hackathonvf.vercel.app/
+
 ## 🚀 Features
 
 ### 🔐 Authentication & User Management
